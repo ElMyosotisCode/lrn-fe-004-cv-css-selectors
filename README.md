@@ -17,9 +17,9 @@ In this progress session, I added some CSS Hover animation, such as: ✌
 ## Learning Module Session 4 -> CSS Selectors
 
 Here are some key points I learned in this project:
-- Starting to understand about **_specificity_** in CSS, which helps in determining which styles are applied when multiple rules match the same element.
-- Learn about **_LVHA_** concept (Layout, Visual, Hover, Active) to organize CSS Animations rules effectively.
-- How to implement **_CSS hover effects_** to enhance user interaction on my web page.
+- Starting to understand about `specificity` in CSS, which helps in determining which styles are applied when multiple rules match the same element.
+- Learn about `LVHA` concept (Layout, Visual, Hover, Active) to organize CSS Animations rules effectively.
+- How to implement `CSS hover effects` to enhance user interaction on my web page.
 - How to use external CSS libraries to quickly add complex animations without writing extensive custom code.
 - How to grouping CSS rules to apply same rules uniformity to multiple elements, making my code cleaner and more efficient.
 
