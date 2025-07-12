@@ -9,7 +9,7 @@ In this progress session, I added some CSS Hover animation, such as: ✌
 - CSS Hover Animation for Navigation Menu
 - CSS Hover Animation for External Web Links
 
-* Credits to IanLunn for the CSS Hover Animation
+** Credits to IanLunn for the CSS Hover Animation
 [IanLunn's Hover.css](https://ianlunn.github.io/Hover/)
 
 --
